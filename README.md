@@ -1,5 +1,9 @@
 This project serves as a foundational template for creating 2D games using the Godot Engine. Whether you're a beginner or looking to streamline your game development process, this template provides a solid starting point.
-Credits to GDQuest for tutorial
+
+Credits to GDQuest for tutorial https://www.youtube.com/@Gdquest
+
+
+
 🎮 Project Overview
 
 The 2D Project Start template is inspired by the "Dodge the Creeps!" tutorial from the official Godot documentation. This game involves a player character that moves to avoid enemies, aiming to survive as long as possible. The template includes:
